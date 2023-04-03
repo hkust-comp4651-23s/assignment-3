@@ -1,6 +1,6 @@
 # assignment-3
 
-## Deadline: 11, Apr., 2023 23:00 (Tue)
+## Deadline: 11, Apr., 2023 23:59 (Tue)
 In assignment 3, you will be required to complete a linear regression pipeline with PySpark.
 
 ## Assignment
